@@ -1,0 +1,3 @@
+# Players with a protocol version below the specified one will be kicked
+# If the value is -1, only the current version of the protocol will be supported
+minimum-accepted-protocol: -1

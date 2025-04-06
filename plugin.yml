@@ -1,0 +1,6 @@
+name: MinimumProtocol
+version: 1.0
+main: Gaprix\MinimumProtocol\MinimumProtocol
+api: 5.0.0
+author: Gaprix
+website: https://github.com/Gaprix/MinimumProtocol
